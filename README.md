@@ -1,6 +1,6 @@
 ## BULLET CASING [beta]
 bullet casing 202209 project <br />
-day #2 of leaking my source :)  <br />
+day #2 of publishing my sources :)  <br />
 
 open source multitool <br />
 (still in dev) <br />
